@@ -8,14 +8,14 @@ export default function Home() {
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://ams.leit.us:5443/live/play.html?id=TC07"
+            href="https://ams.leit.us:5443/OldCam/play.html?id=TC07"
             target="_blank"
           >
             Court 7
           </a>          
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://ams.leit.us:5443/live/play.html?id=TC09"
+            href="https://ams.leit.us:5443/OldCam/play.html?id=TC09"
             target="_blank"
           >
             Court 9
